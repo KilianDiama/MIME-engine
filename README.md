@@ -1,3 +1,5 @@
+credit : kiliandiama
+
 MIME Engine — Industrial Critical Edition
 Hyperdimensional Mutagenic Active Inference Engine (10/10)
 Overview
